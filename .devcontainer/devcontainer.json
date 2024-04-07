@@ -1,6 +1,6 @@
 {
     "name": "Codespaces PowerShell Template",
-    "image": "mcr.microsoft.com/powershell",
+    "image": "mcr.microsoft.com/azure-powershell",
     "customizations": {
         "vscode": {
             "extensions": [
